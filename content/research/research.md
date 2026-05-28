@@ -1,12 +1,12 @@
 ## Working Paper
 {{< spoiler text="**Gender Promotion Gaps in Knowledge Work: The Role of Task Assignment in Teams**" >}}
 <div style="text-align: justify;">
-Using rich data on personnel records, work assignments, and performance in a financial institution, we uncover the mechanisms leading to promotion gaps in knowledge teamwork. There is a substantial promotion gap for women in early careers. Analysing over 10,000 investment projects, we find that assignments to project team leaderships (a “promotable” task) are crucial in explaining the gaps in promotions and affect long-term careers. We find causal evidence that male supervisors favour male bankers. A survey among employees indicates that women perceive to be disadvantaged in the assignments of tasks, but they do not differ in aspirations and demand for these roles.
+Using rich data on personnel records, work assignments, and performance in a financial institution, we uncover the mechanisms leading to promotion gaps in knowledge teamwork. We find a substantial promotion gap for women in early career stages. Analyzing over a decade of personnel and investment project data reveals that assignments to project team leaderships (a “promotable” task) are crucial in explaining the gaps in promotions and affect long-term careers. We find causal evidence that male supervisors favor male bankers, while women benefit from female supervisors. A survey among employees indicates that women perceive to be disadvantaged in the assignments of tasks, but they do not differ in aspirations and demand for these roles.
 </div>
 {{< /spoiler >}}
-_Working Paper_, April 2024  
-*(joint with [Çağatay Bircan](https://cagataybircan.com) and [Guido Friebel](https://www.guidofriebel.com))*  
-{{% staticref "/uploads/BFS_24_GenderPromotionGapsKnowledgeWork.pdf" "newtab" %}}Most recent version{{% /staticref %}}; [EBRD WP](https://www.ebrd.com/publications/working-papers/gender-promotion-gaps-in-knowledge-work-the-role-of-task-assignment-in-teams)
+_Working Paper_
+*(joint with [Çağatay Bircan]((https://uk.linkedin.com/in/cagatay-bircan)) and [Guido Friebel](https://www.guidofriebel.com))*  
+{{% staticref "/uploads/BFS_GenderPromotionGapsKnowledgeWork.pdf" "newtab" %}}Most recent version{{% /staticref %}}; [EBRD WP](https://www.ebrd.com/publications/working-papers/gender-promotion-gaps-in-knowledge-work-the-role-of-task-assignment-in-teams)
 
 
 
@@ -21,14 +21,13 @@ We study a sample of over 13,000 research articles published in economics journa
 _Manuscript available on request_  
 *(joint with [Marc Diederichs](https://www.marc-diederichs.de))*
 
-{{< spoiler text="**Fighting Fires with Social Capital: The Formation of Fire Brigades in 19th Century Baden**" >}}
+{{< spoiler text="**On Self-Organization: The Formation of Volunteer Fire Brigades in 19th-Century Baden**" >}}
 <div style="text-align: justify;">
-Using detailed historical panel data from 19th century Baden, an autonomous state in Germany, we investigate private public-good provision on the municipality level. The development of voluntary fire brigades, a powerful and widespread organizational system of fire protection, offers a unique opportunity to study the development of organizations and understand the determinants of municipality-level capacity to self-organize. 
-Results show the importance of experiencing a large fire and pre-existing social capital in the form of gymnastics and singing clubs. Especially, the interaction between fire and social capital is important, suggesting that the organizational capacity in municipalities needs an initial spark to unfold its effects. The results are robust against the inclusion of municipality time-invariant effects and many other municipality characteristics. 
+UHow does self-organization emerge? We study the formation of volunteer fire brigades in 19th-century Baden, then a sovereign state in the German lands. Many communities — though far from all — established these brigades, a form of bottom-up collective action that persists to this day. Self-organization emerged where local shocks met pre-existing civic associations: a major fire sharply raised the likelihood of founding a brigade, but only in communities that already had a singing or gymnastics club. 
 </div>
 {{< /spoiler >}}
 _Manuscript available on request_  
-*(joint with [Sebastian Koch](https://www.wiwi.uni-frankfurt.de/de/abteilungen/mm/professuren/professur-friebel/team/sebastian-koch.html))*
+*(joint with [Guido Friebel](https://www.guidofriebel.com) and [Sebastian Koch]([https://www.wiwi.uni-frankfurt.de/de/abteilungen/mm/professuren/professur-friebel/team/sebastian-koch.html](https://www.wiwi.uni-frankfurt.de/en/departments-new/accounting-sustainability-reporting/alumni)))*
 
 
 
