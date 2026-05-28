@@ -5,7 +5,7 @@ Using rich data on personnel records, work assignments, and performance in a fin
 </div>
 {{< /spoiler >}}
 _Working Paper_
-*(joint with [Çağatay Bircan]((https://uk.linkedin.com/in/cagatay-bircan)) and [Guido Friebel](https://www.guidofriebel.com))*  
+*(joint with [Çağatay Bircan]((https://uk.linkedin.com/in/cagatay-bircan) and [Guido Friebel](https://www.guidofriebel.com))*  
 {{% staticref "/uploads/BFS_GenderPromotionGapsKnowledgeWork.pdf" "newtab" %}}Most recent version{{% /staticref %}}; [EBRD WP](https://www.ebrd.com/publications/working-papers/gender-promotion-gaps-in-knowledge-work-the-role-of-task-assignment-in-teams)
 
 
