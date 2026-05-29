@@ -38,6 +38,9 @@ _Manuscript available on request_
 [Daniel Chen](https://users.nber.org/~dlchen/),
 and [Guido Friebel](https://www.guidofriebel.com))*  
 
-{{< spoiler text="**Transparency in Lobbyism**" >}}
+{{< spoiler text="**Transparency in Lobbying**" >}}
+{{< /spoiler >}}
+
+{{< spoiler text="**Learning in Teams**" >}}
 {{< /spoiler >}}
 
